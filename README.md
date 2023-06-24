@@ -2,6 +2,7 @@
 养猪翻译工具箱
 
 # 养猪字典
+推荐下载**养猪英汉词典.mdx**，并使用第三方词典打开。方法见[这篇文章](https://mp.weixin.qq.com/s/CGuKF4QdwJ5NfjY0sl5CDQ)。
 
 > glossary - swine xxxxxxxx.txt
 
