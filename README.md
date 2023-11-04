@@ -24,3 +24,13 @@
 
 * [Coursera](https://www.coursera.org/learn/fanyi-ruanjian) （需要翻墙观看视频）
 * [B站](https://www.bilibili.com/video/BV1Hf4y1G7S3/)
+
+# 鸣谢
+
+* 安卓词典的程序和打包由王剑豪同学完成。
+* 多种释义的词汇经由全国科学技术名词审定委员会的术语在线进行验证。（https://www.termonline.cn/）
+* 参考中国台湾省双语词汇、学术名词暨辞书资讯网(naer.edu.tw)
+畜牧学（2020-05-25）
+兽医学（2020-05-13）
+两岸对照名词-畜牧（2017-07-20）
+* 参考何琼《英汉·汉英畜牧与兽医词汇手册》ISBN 978-7-5446-1247-0
